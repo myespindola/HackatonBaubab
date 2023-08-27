@@ -1,7 +1,7 @@
 from tkinter.tix import X_REGION
 import captum
 import numpy as np
-from models.basemodel import BaseModel
+from TabSurvey.models.basemodel import BaseModel
 import shap
 
 

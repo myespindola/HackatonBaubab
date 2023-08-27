@@ -3,7 +3,7 @@ import typing as tp
 
 import optuna
 
-from utils.io_utils import save_predictions_to_file, save_model_to_file
+from TabSurvey.utils.io_utils import save_predictions_to_file, save_model_to_file
 
 
 class BaseModel:
